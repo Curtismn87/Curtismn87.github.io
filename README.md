@@ -1,23 +1,13 @@
-# Summary
+As a user -
 
-* [An Introduction](README.md)
-* [Front End Fundamentals](01-front-end-fundamentals/readme.md)
-    * [Command Line Interface](01-front-end-fundamentals/command-line/readme.md)
-    * [Git](01-front-end-fundamentals/git/readme.md)
-    * [Intro to Web and HTML](01-front-end-fundamentals/intro-to-web-and-html/readme.md)
-    * [JavaScript Data Types](01-front-end-fundamentals/javascript-data-types/readme.md)
-    * [JavaScript Loops & Conditionals](01-front-end-fundamentals/javascript-loops-conditionals/readme.md)
-    * [JavaScript Objects and DOM](01-front-end-fundamentals/javascript-objects-DOM/readme.md)
-    * [Morning Exercises](01-front-end-fundamentals/morning-exercises.md)
-    * [Homeworks](01-front-end-fundamentals/homeworks.md)
-* [Intermediate Front End](02-intermediate-front-end/readme.md)
-* [Project 1](https://github.com/ga-dc/pbj-project1/blob/master/readme.md)
-* [Ruby + MVC with Sinatra](04-ruby-mvc-sinatra/readme.md)
-* [MVC with Rails](05-mvc-with-rails/readme.md)
-* [Project 2](https://github.com/ga-dc/pbj-project2/blob/master/readme.md)
-* [APIs with Rails and Express](07-apis-with-rails-and-express/readme.md)
-* [Users and Authentication in APIs](08-users-and-authentication-in-apis/readme.md)
-* [Project 3](https://github.com/ga-dc/pbj-project3/blob/master/readme.md)
-* [MV* with Backbone](10-mvw-with-backbone/readme.md)
-* [MV* with Angular](11-mvw-with-angular/readme.md)
-* [Portfolio Project](https://github.com/ga-dc/pbj-project4/blob/master/readme.md)
+1. I want to be able see how many guesses I have made during the game
+2. I want to play again once my game is over
+3. I want to pick how many cards I have to match
+4. I want to be able to play against my friends
+5. I want to see how many times I have won
+
+-- Wasn't able to implement (3) choosing how many cards to match or (4) play against my friends
+
+Spent a lot of time fixing problems in the javascript and preventing users from being able to
+break the program. There are still some minor errors that I know about (proably more that I don't know about)
+but was able to fix most of the issues that arose.
